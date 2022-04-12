@@ -1,2 +1,4 @@
 This is my first test file bro.s
 Why arent the changes being reflected
+
+This is the second thing am trying to commit to the github account
